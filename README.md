@@ -11,4 +11,4 @@ _posts/
 images/
 ```
 
-Feel free to use anything else.
+Everything else is licensed under the MIT License.
