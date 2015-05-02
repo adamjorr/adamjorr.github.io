@@ -8,7 +8,7 @@ You cannot use anything in:
 
 ```
 _posts/
-images/
+assets/
 ```
 
 Everything else is licensed under the MIT License.
