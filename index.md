@@ -1,7 +1,6 @@
 ---
 layout: page
 title: adam orr
-permalink: /about/
 ---
 
 I'm currently a grad student at ASU
