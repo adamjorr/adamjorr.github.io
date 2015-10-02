@@ -5,6 +5,8 @@ title: adam orr
 
 I'm currently a grad student at ASU
 
-I've got my eye on the prize.
+I study mutation
 
-Who knows what I'll do next?
+I like video games
+
+I sometimes write.
