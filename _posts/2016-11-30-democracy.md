@@ -5,8 +5,6 @@ date:   2016-11-30
 permalink: democracy.html
 ---
 
-#Democracy and Necessity
-
 Today I saw a silly thing on the internet that has a few people upset: this graph showing that fewer millennials believe that living in a democracy is essential:
 
 ![Percent of people who say it is essential to live in a democracy]({{ site.url }}/assets/millenial_democracy.png)
