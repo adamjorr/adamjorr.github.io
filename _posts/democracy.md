@@ -2,6 +2,7 @@
 layout: post
 title:  "Democracy and Necessity"
 date:   2016-11-30
+permalink: democracy.html
 ---
 
 #Democracy and Necessity
