@@ -17,7 +17,7 @@ So how do we get there?
 
 Step 1 is optional if you actually like the Windows command line. Step 2 is also optional if you don't mind the font and just want a more powerful shell.
 
-1. A Truly *Power*ful Shell For Windows
+A Truly *Power*ful Shell For Windows
 ---------------------------------------
 Everything you need to know about installing the Linux Subsystem for Windows is in [this article](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide) by Microsoft. In summary:
 1. Go to Settings > Update and Security > For developers and click the Developer Mode button
@@ -27,11 +27,11 @@ Everything you need to know about installing the Linux Subsystem for Windows is 
 
 Now you have a Linux system living inside your Windows machine. Awesome! Just don't try using windows programs to edit things in your Linux subsystem folder, or you could corrupt your linux installation.
 
-2. Why Are All These Fonts So Ugly?
+Why Are All These Fonts So Ugly?
 -----------------------------------
 The default terminal fonts included with Windows are OK, but can strain your eyes, hurt your brain, and offend your modern sensibilities. If we're going to have a beautiful terminal, we might as well go all the way and get a decent font for it. For that, I like [DejaVu fonts](http://dejavu-fonts.org/wiki/Main_Page). They are a set of solid, free fonts. To install them, just download [this](http://sourceforge.net/projects/dejavu/files/dejavu/2.37/dejavu-fonts-ttf-2.37.zip) zip file and extract it. Install as many as you want by clicking them and hitting the install button, but we're specifically interested in **DejaVu Sans Mono**. This is in the `DejaVuSansMono.ttf` file. This font is intended for a terminal and Hyper will look to use it by default. 
 
-3. A Terminal Emulator Built To Be Beautiful
+A Terminal Emulator Built To Be Beautiful
 --------------------------------------------
 The point of [Hyper](www.hyper.is) is to allow you to use your favorite HTML, CSS and JavaScript tricks to make a really stunning terminal. However, even without any of that, it's a solid terminal that just looks great. To start, download and execute the terminal installer [here](https://hyper-updates.now.sh/download/win). If you want your terminal to use the windows shell, that's all you need to do. However, if you want to connect the terminal to our new Bash shell you'll need to do a little configuration. To do that,
 
