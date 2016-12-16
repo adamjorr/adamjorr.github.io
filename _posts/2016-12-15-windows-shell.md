@@ -13,7 +13,7 @@ So how do we get there?
 
 1. Install the Linux Subsystem for Windows.
 2. Install a decent terminal font.
-3. Install and configure Hyper.is
+3. Install and configure Hyper.
 
 Step 1 is optional if you actually like the Windows command line. Step 2 is also optional if you don't mind the font and just want a more powerful shell.
 
