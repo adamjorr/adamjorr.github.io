@@ -9,7 +9,7 @@ date:   2016-12-15
 In Linux or on a Mac, working in the terminal is usually a relatively pleasant experience. You boot up the terminal, do what you want with it, and that's the end of it. On Windows, however, using the terminal is *awful*; the shell is less powerful and it's a complete eye-sore. When I use the command line, I want a shell that *does* good and a terminal that *looks* good. With the release of the Linux Subsystem for Windows, anyone can now get a bash shell with their full Windows 10 installation. By default it's still really ugly, and so still not very usable. With the recent release of [Hyper](www.hyper.is), a beautiful cross-platform terminal emulator, we can fix the ugliness of the Windows terminal and natively get the power of Bash and all your favorite Linux utilities--even apt-get! For this tutorial, you'll need to be running Windows 10 Anniversary Update build 14393 or later.
 
 Here's a screenshot of my shell:
-![A Decent Windows Shell]({{ site.url }}/assets/terminal.PNG)
+![A Decent Windows Shell]({{ site.url }}/assets/terminal.png)
 
 So how do we get there?
 
