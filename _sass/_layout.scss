@@ -18,6 +18,7 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    text-transform: lowercase;
 
 
     // &,
@@ -38,6 +39,7 @@
     .page-link {
         color: $grey-color-dark;
         line-height: $base-line-height;
+        text-transform: lowercase;
 
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
